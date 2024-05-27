@@ -3,7 +3,7 @@
 # Project Overview
 The Manufacturing Dashboard project aims to provide a comprehensive analysis of production metrics and quality control indicators within a manufacturing environment. By leveraging data visualization techniques and analytics, the dashboard offers valuable insights into various aspects of production, rejection rates, departmental performance, and machine costs.
 
-# Key Features
+# Insights
 1. Item-Level Analysis:
 Breaks down manufactured and rejected quantities for each item.
 Allows for targeted improvements by identifying specific product line issues.
@@ -24,6 +24,5 @@ Ensures timely production and delivery alignment with targets.
 Displays monthly production quantities for trend analysis.
 Facilitates capacity planning and decision-making for better efficiency.
 
-# Insights Gained
 
 
