@@ -1,7 +1,12 @@
+
 # Manufacturing_Analysis
 
 # Project Overview
 The Manufacturing Dashboard project aims to provide a comprehensive analysis of production metrics and quality control indicators within a manufacturing environment. By leveraging data visualization techniques and analytics, the dashboard offers valuable insights into various aspects of production, rejection rates, departmental performance, and machine costs.
+
+
+![PowerBI](https://github.com/PalakhJain/Manufacturing_Analysis/assets/170703966/d13e34be-3819-45d7-bb1b-97a9bc71709b)
+
 
 # Insights
 1. Item-Level Analysis:
